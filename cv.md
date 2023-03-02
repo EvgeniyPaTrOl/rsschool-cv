@@ -17,4 +17,20 @@ Having worked as a system administrator for 8 years, I realized that knowledge i
    - HTML5/CSS3
    - basic level of Javascript
    
-   
+# Code example
+```javascript
+function evenOrOdd (number) {
+    if (number % 2 === 0) {
+        return 'Even';
+      } else {
+        return 'Odd';
+      }
+  }
+```
+
+# Education
+Gomel State University named P.O.Sukhoi, Faculty of Automated and Information Systems, specialty radio electronics engineer
+
+# Languages
+- Russian - Native
+- English - Intermediate/Upper-intermediate
