@@ -1,6 +1,6 @@
 # CV for RSSchool
 
-## Evgeniy Smolekha - Beginning Javascript learner
+## Evgeniy Smolekha - learning Javascript in RSSchool
 
 # Contacts
 - Email: sevgeniy623@gmail.com
